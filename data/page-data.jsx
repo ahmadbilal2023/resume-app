@@ -1,5 +1,5 @@
 export const personalData = {
-	name: "Ahmad Bilal",
+	name: "Ahmad Bilal Farooqi",
 	role: "Software Engineer",
 	education: [
 		"Bachelor of Commerce in Marketing & Finance, University of the Punjab (2019-2022)",
@@ -16,8 +16,7 @@ export const personalData = {
 export const aboutMe = {
 	title: "About Me",
 	body: [
-		"Motivated and enthusiastic individual with a background in commerce and a passion for technology. With a strong interest in the intersection of business and technology, I decided to pursue a degree in computer science to broaden my skill set and gain a deeper understanding of the digital world. Through my coursework, I have gained experience in programming languages such as HTML, Tailwind_CSS, Javascript, Typescript,React and Postgress_SQL, as well as database management, software engineering, and web development.",
-		"I am excited to continue growing my skills and knowledge in the field of computer science and apply my unique perspective to solve real-world problems. As a team player with strong communication and problem-solving skills, I am confident in my ability to make valuable contributions to any organization."
+		"Motivated and enthusiastic individual with a background in commerce and a passion for technology. With a strong interest in the intersection of business and technology, I decided to pursue a degree in computer science to broaden my skill set and gain a deeper understanding of the digital world. Through my coursework, I have gained experience in programming languages such as HTML, Tailwind_CSS, Javascript, Typescript,React and Postgress_SQL, as well as database management, software engineering, and web development.I am excited to continue growing my skills and knowledge in the field of computer science and apply my unique perspective to solve real-world problems. As a team player with strong communication and problem-solving skills, I am confident in my ability to make valuable contributions to any organization."
 	],
 		
 };

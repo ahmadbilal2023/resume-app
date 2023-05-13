@@ -6,9 +6,9 @@ const AboutMe = ({ data, skills }) => {
 	const id = useId();
 	return (
 		<section>
-			<h2 className='mb-8'> {title}</h2>
+			<h1 className='mb-8 text-white bg-black font-semibold px-2'> {title}</h1>
 			{body?.map((el, i) => (
-				<p key={`${id}_${i}`} className='mb-6'>
+				<p key={`${id}_${i}`} className='mb-6 text-xl text-justify font-semibold'>
 					{el}
 				</p>
 			))}
