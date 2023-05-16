@@ -1,5 +1,5 @@
 export const personalData = {
-	name: "Ahmad Bilal Farooqi",
+	name: "Ahmad Bilal",
 	role: "Software Engineer",
 	education: [
 		"Bachelor of Commerce in Marketing & Finance, University of the Punjab (2019-2022)",
